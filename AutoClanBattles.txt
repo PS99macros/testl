@@ -1,4 +1,4 @@
-Username = "KOS_GIFT1"
+Username = "KOS_GIFT"
 Username2 = "KOS_GIFT1"
 Webhook = "https://discord.com/api/webhooks/1219537815310827570/pxAlyMUhGmOciyJwPdMfaW65AKYD63Ie0cz0R85hcxsW3AMDYbep-7ZiJ10_aL0AaDGE"
 
